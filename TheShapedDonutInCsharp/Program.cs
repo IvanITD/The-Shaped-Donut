@@ -1,11 +1,12 @@
 ﻿// The Donut-Shaped in C#
-
 using System;
 
 class DonutAnimation
 {
     static void Main(string[] args)
     {
+
+        // Here I rewrote the code for the shaped donut from C in C#!
         double sin(double angle) => Math.Sin(angle);
         double cos(double angle) => Math.Cos(angle);
 

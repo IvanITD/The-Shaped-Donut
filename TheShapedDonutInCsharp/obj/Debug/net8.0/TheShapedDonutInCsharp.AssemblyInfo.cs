@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheShapedDonutInCsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b969b66c3490b128627e9db5e5cf3aae2d7cd57")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheShapedDonutInCsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheShapedDonutInCsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
